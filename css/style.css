@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/*Импорт цветов*/
+/*Импорт интерфейса*/
+/*Импорт секции navbar*/
+body {
+  font-family: Poppins;
+  color: #2A3043;
+}
+
+.start-window {
+  height: 100vh;
+  background: url(../img/bg_bot_paper.svg) 50% 90% no-repeat, linear-gradient(223.86deg, #E8218D 1.92%, #E4228E 1.92%, #E6228D 49.95%, #973F98 100%);
+  background-size: 90%, 100%;
+  padding-bottom: 400px;
+}
+
+.start-window .logo {
+  padding: 84px 47px 28px 47px;
+  padding-left: 6.67vw;
+  padding-right: 6.67vw;
+}
+
+.start-window .reload {
+  padding-bottom: 107px;
+}
+/*# sourceMappingURL=style.css.map */
